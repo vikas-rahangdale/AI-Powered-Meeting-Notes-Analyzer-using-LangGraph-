@@ -1,0 +1,93 @@
+Product Manager: Good morning everyone. We have received several complaints about the mobile app crashing during login.
+
+Customer Support Lead: Yes, our support team received more than 120 complaints in the last two days.
+
+Product Manager: That is quite serious. We need to identify the root cause quickly.
+
+Mobile Developer: I checked some of the crash logs yesterday and noticed that most of the issues are coming from Android users.
+
+QA Tester: I also tried reproducing the issue on an Android device and the app crashed right after entering login credentials.
+
+Backend Developer: Could the issue be related to the authentication API?
+
+Mobile Developer: That is possible. The login request might be failing due to some recent backend changes.
+
+Product Manager: When was the last update deployed to production?
+
+Backend Developer: We deployed a small update to the authentication service three days ago.
+
+QA Tester: The crash reports also started appearing around the same time.
+
+Mobile Developer: I suspect the issue might be related to how the mobile app handles the API response.
+
+Backend Developer: Let me check whether the API response format has changed.
+
+Product Manager: Good idea. We need to investigate both the mobile and backend components.
+
+Customer Support Lead: Customers are getting frustrated because they cannot access their accounts.
+
+Product Manager: Yes, we must resolve this issue urgently.
+
+Mobile Developer: I will review the Android login module and check if any error handling is missing.
+
+QA Tester: I will prepare a detailed bug report with screenshots and logs.
+
+Backend Developer: I will verify the authentication API and check if there are any breaking changes.
+
+Product Manager: Please prioritize this issue today.
+
+QA Tester: Should we also test the app on different Android versions?
+
+Mobile Developer: Yes, that would help identify if the issue is device specific.
+
+QA Tester: I will test the login flow on Android 11, 12, and 13.
+
+Backend Developer: I will also check the server logs to see if any authentication errors are recorded.
+
+Product Manager: Good. Let's also inform the management team about this issue.
+
+Customer Support Lead: I will send a message to the support team so they can update customers that we are working on a fix.
+
+Mobile Developer: If the issue is in the login module, I should be able to push a fix by tomorrow.
+
+QA Tester: Once the fix is ready, I will perform regression testing.
+
+Backend Developer: I will also test the authentication endpoints after the fix is deployed.
+
+Product Manager: Great. Please document the issue and the resolution steps.
+
+QA Tester: I will update the issue tracker with all findings.
+
+Customer Support Lead: Should we also prepare a communication message for users?
+
+Product Manager: Yes, we should notify users once the fix is deployed.
+
+Mobile Developer: I will also add better error handling so the app does not crash even if the API fails.
+
+Backend Developer: That would definitely improve stability.
+
+QA Tester: After testing, we should release the patch update to the Play Store.
+
+Product Manager: Yes, but only after we confirm that the issue is fully resolved.
+
+Mobile Developer: I will start working on the fix immediately after this meeting.
+
+Backend Developer: I will review the API logs right away.
+
+QA Tester: I will share the bug report within the next hour.
+
+Product Manager: Thank you everyone for the quick response.
+
+Customer Support Lead: Hopefully we can resolve this before more users are affected.
+
+Mobile Developer: I will provide an update by the end of the day.
+
+Backend Developer: Same here. I will report any issues I find.
+
+Product Manager: Let's regroup tomorrow morning to review the progress.
+
+QA Tester: Sounds good.
+
+Customer Support Lead: Thank you everyone.
+
+Product Manager: Meeting adjourned.
